@@ -8,10 +8,10 @@ Additions:<br>
 <br>
 
 
-# <b>SCRATCH PROJECTS LIST</b>
+# SCRATCH PROJECTS LIST
 
 
-## <a href="https://liutyiartur.github.io/scratch_projects/ar_5g/index.html" target="_blank"><b>AR_5G</b></a>
+## <a href="https://liutyiartur.github.io/scratch_projects/ar_5g/index.html" target="_blank">AR_5G</a>
 
 
 operating system, desktop, applications, icons
