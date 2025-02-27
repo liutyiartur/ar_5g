@@ -10,7 +10,7 @@ https://forkphorus.github.io/
 operating system
 
 <details>
-  <summary>preview</summary>
+  <summary>AR_5G preview</summary>
   
 
   ![RUNES](https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg)
