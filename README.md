@@ -1,2 +1,14 @@
-# ar_5g
-scratch project / operating system
+# SCRATCH PROJECTS
+
+
+## [AR_5G](https://liutyiartur.github.io/ar_5g/)
+
+### operating system
+
+<details>
+  <summary>preview</summary>
+  
+
+  ![RUNES](https://raw.githubusercontent.com/liutyiartur.github.io/scratch_projects/ar_5g/prev.jpg)
+  
+</details>
