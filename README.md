@@ -24,7 +24,7 @@ operating system, desktop, applications, icons
   </a>    
 </details>
 
-<style>
+<style hidden>
   img {
       border-radius: 16px;
   }
