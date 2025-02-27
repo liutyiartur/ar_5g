@@ -1,9 +1,9 @@
 # SCRATCH PROJECTS
 
 
-## [AR_5G](https://liutyiartur.github.io/ar_5g/)
+## [AR_5G](https://liutyiartur.github.io/ar_5g/index.html)
 
-### operating system
+operating system
 
 <details>
   <summary>preview</summary>
