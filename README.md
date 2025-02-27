@@ -1,7 +1,7 @@
 # SCRATCH PROJECTS
 
 
-## [AR_5G](https://liutyiartur.github.io/ar_5g/index.html)
+## [AR_5G](https://liutyiartur.github.io/scratch_projects/ar_5g/index.html)
 
 operating system
 
@@ -9,6 +9,7 @@ operating system
   <summary>preview</summary>
   
 
-  ![RUNES](https://raw.githubusercontent.com/liutyiartur/scratch_projects/blob/main/ar_5g/prev.jpg)
+  ![RUNES](https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg)
   
 </details>
+
