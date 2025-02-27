@@ -1,6 +1,7 @@
 
 Additions:<br>
 <ul>
+  <li><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></li>
   <li><a href="https://turbowarp.org/" target="_blank">TurboWarp</a></li>
   <li><a href="https://forkphorus.github.io/" target="_blank">Forkphorus</a></li>
 </ul>
