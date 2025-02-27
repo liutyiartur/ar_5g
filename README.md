@@ -12,6 +12,7 @@ operating system
 <details>
   <summary>AR_5G preview</summary>
   
+  <img src="https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg" alt="prev">
 
   ![RUNES](https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg)
   
