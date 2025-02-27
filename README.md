@@ -20,6 +20,6 @@ operating system, desktop, applications, icons
   <summary>AR_5G preview</summary><br>
 
   <a href="https://liutyiartur.github.io/scratch_projects/ar_5g/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg" alt="prev" styles="border-radius: 16px;">  
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg" alt="prev" style="border-radius: 16px;">  
   </a>    
 </details>
