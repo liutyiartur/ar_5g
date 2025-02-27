@@ -4,7 +4,8 @@ https://turbowarp.org/
 https://forkphorus.github.io/
 
 
-## [AR_5G](https://liutyiartur.github.io/scratch_projects/ar_5g/index.html)
+## <a href="https://liutyiartur.github.io/scratch_projects/ar_5g/index.html" target="_blank">AR_5G</a>
+
 
 operating system
 
