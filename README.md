@@ -24,3 +24,8 @@ operating system, desktop, applications, icons
   </a>    
 </details>
 
+<style>
+  img {
+      border-radius: 16px;
+  }
+</style>
