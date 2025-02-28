@@ -23,3 +23,21 @@ operating system, desktop, applications, icons
     <img src="https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/ar_5g/prev.jpg" alt="prev" style="border-radius: 16px;">  
   </a>    
 </details>
+
+
+# SCRATCH PROJECTS LIST
+
+
+## <a href="https://liutyiartur.github.io/scratch_projects/dragon_fight/index.html" target="_blank">DRAGON FIGHT</a>
+
+
+a school project for FIGHT with DRAGON
+
+<details>
+  <summary>DRAGON FIGHT preview</summary><br>
+
+  <a href="https://liutyiartur.github.io/scratch_projects/dragon_fight/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_projects/refs/heads/main/dragon_fight/prev.jpg" alt="prev" style="border-radius: 16px;">  
+  </a>    
+</details>
+
