@@ -25,9 +25,6 @@ operating system, desktop, applications, icons
 </details>
 
 
-# SCRATCH PROJECTS LIST
-
-
 ## <a href="https://liutyiartur.github.io/scratch_projects/dragon_fight/index.html" target="_blank">DRAGON FIGHT</a>
 
 
